@@ -39,6 +39,7 @@
     "useragent": "2.1.x"
   },
   "devDependencies": {
+    "grunt-cli": "latest",
     "grunt": "latest",
     "grunt-coffeelint": "0.0.13",
     "grunt-contrib-clean": "0.6.0",
